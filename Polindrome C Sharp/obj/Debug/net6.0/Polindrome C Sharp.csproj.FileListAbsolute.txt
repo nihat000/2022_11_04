@@ -1,0 +1,15 @@
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\bin\Debug\net6.0\Polindrome C Sharp.exe
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\bin\Debug\net6.0\Polindrome C Sharp.deps.json
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\bin\Debug\net6.0\Polindrome C Sharp.runtimeconfig.json
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\bin\Debug\net6.0\Polindrome C Sharp.dll
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\bin\Debug\net6.0\Polindrome C Sharp.pdb
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\obj\Debug\net6.0\Polindrome C Sharp.csproj.AssemblyReference.cache
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\obj\Debug\net6.0\Polindrome C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\obj\Debug\net6.0\Polindrome C Sharp.AssemblyInfoInputs.cache
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\obj\Debug\net6.0\Polindrome C Sharp.AssemblyInfo.cs
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\obj\Debug\net6.0\Polindrome C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\obj\Debug\net6.0\Polindrome C Sharp.dll
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\obj\Debug\net6.0\refint\Polindrome C Sharp.dll
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\obj\Debug\net6.0\Polindrome C Sharp.pdb
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\obj\Debug\net6.0\Polindrome C Sharp.genruntimeconfig.cache
+C:\Users\nihat-1\Desktop\code_edu\2022_11_04\Polindrome C Sharp\obj\Debug\net6.0\ref\Polindrome C Sharp.dll

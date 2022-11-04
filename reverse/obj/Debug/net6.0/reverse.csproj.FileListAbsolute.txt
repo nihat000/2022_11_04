@@ -1,0 +1,15 @@
+C:\Users\nihat-1\Desktop\code_edu\reverse\obj\Debug\net6.0\reverse.csproj.AssemblyReference.cache
+C:\Users\nihat-1\Desktop\code_edu\reverse\obj\Debug\net6.0\reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihat-1\Desktop\code_edu\reverse\obj\Debug\net6.0\reverse.AssemblyInfoInputs.cache
+C:\Users\nihat-1\Desktop\code_edu\reverse\obj\Debug\net6.0\reverse.AssemblyInfo.cs
+C:\Users\nihat-1\Desktop\code_edu\reverse\obj\Debug\net6.0\reverse.csproj.CoreCompileInputs.cache
+C:\Users\nihat-1\Desktop\code_edu\reverse\bin\Debug\net6.0\reverse.exe
+C:\Users\nihat-1\Desktop\code_edu\reverse\bin\Debug\net6.0\reverse.deps.json
+C:\Users\nihat-1\Desktop\code_edu\reverse\bin\Debug\net6.0\reverse.runtimeconfig.json
+C:\Users\nihat-1\Desktop\code_edu\reverse\bin\Debug\net6.0\reverse.dll
+C:\Users\nihat-1\Desktop\code_edu\reverse\bin\Debug\net6.0\reverse.pdb
+C:\Users\nihat-1\Desktop\code_edu\reverse\obj\Debug\net6.0\reverse.dll
+C:\Users\nihat-1\Desktop\code_edu\reverse\obj\Debug\net6.0\refint\reverse.dll
+C:\Users\nihat-1\Desktop\code_edu\reverse\obj\Debug\net6.0\reverse.pdb
+C:\Users\nihat-1\Desktop\code_edu\reverse\obj\Debug\net6.0\reverse.genruntimeconfig.cache
+C:\Users\nihat-1\Desktop\code_edu\reverse\obj\Debug\net6.0\ref\reverse.dll
